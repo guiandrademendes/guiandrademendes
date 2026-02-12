@@ -1,6 +1,7 @@
 # Hi 👋, I'm Guilherme Andrade
 
  **Sou graduando em ADS pela**
+ 
  🇧🇷 Brazil
 
 Estou no **inicio da minha Jornada profissional na Àrea da tecnologia**. Contempo esse portfolio com o **Objetivo** de **Organizar** estudos e projetos, **Documentar** praticas Acadêmicas desenvolvidas durante a formação e **Registar** evoluções e Progressos.
@@ -14,7 +15,7 @@ Estou no **inicio da minha Jornada profissional na Àrea da tecnologia**. Contem
     <img src="https://img.shields.io/badge/GitHub-GUILHERMEANDRADEMENDES-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/guilhandrade">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@guilhandrade-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -34,4 +35,4 @@ Estou no **inicio da minha Jornada profissional na Àrea da tecnologia**. Contem
 
 **"O verdadeiro problema não é se as máquinas pensam, mas se os humanos o fazem - B.F. Skinner**
 
-**O Código que escreve hoje, é o legado do amanhã**
+**"O Código que escreve hoje, é o legado do amanhã"**
