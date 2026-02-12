@@ -4,7 +4,7 @@
  
  🇧🇷 Brazil
 
-Estou no **Inicio da minha jornada profissional na área da tecnologia**. Contempo esse portfolio com o **objetivo** de **organizar** estudos e projetos, **documentar** praticas Acadêmicas desenvolvidas durante a formação e **registar** evoluções e progressos.
+Estou no **inicio da minha jornada profissional na área da tecnologia**. Contempo esse portfolio com o **objetivo** de **organizar** estudos e projetos, **documentar** praticas acadêmicas desenvolvidas durante a formação e **registar** evoluções e progressos.
 
 ---
 
