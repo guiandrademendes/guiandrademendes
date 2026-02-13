@@ -11,20 +11,32 @@ Estou no **inicio da minha jornada profissional na área da tecnologia**. Contem
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/guilhermeandradeads">
-    <img src="https://img.shields.io/badge/GitHub-GUILHERMEANDRADEADS-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/guilhermeandradeads" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/guilhandrade._">
-    <img src="https://img.shields.io/badge/Instagram-@GUILHANDRADE._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
+  <a href="https://www.instagram.com/guilhandrade._/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="mailto:guilhermeandrademendes10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/guilherme-andrade-mendes-6319ba2aa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 
 ## 📊 GitHub status
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guilhermeandradeads&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermeandradeads&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeandradeads&layout=compact&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=guilhermeandradeads&theme=dark)
+
 
 ## 🚀 Philosophies and inspirations
 
