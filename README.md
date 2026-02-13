@@ -31,10 +31,6 @@ Estou no **inicio da minha jornada profissional na área da tecnologia**. Contem
 
 ## 📊 GitHub status
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermeandradeads&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeandradeads&layout=compact&theme=dark)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=guilhermeandradeads&theme=dark)
 
 
