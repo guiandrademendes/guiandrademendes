@@ -1,4 +1,4 @@
-# Hi 👋, I'm Guilherme nice to meet
+# Hi 👋, I'm GUILHERME, NICE TO MEET.
 
  **Sou graduando em ADS pela** [Estácio](https://www.estacio.br)
  
