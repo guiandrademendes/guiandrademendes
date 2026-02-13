@@ -10,7 +10,7 @@ Contempo esse portfolio com o **objetivo** de **organizar** estudos e projetos, 
 
 ---
 
-## 🌐 WHERE to FIND me
+## 🌐 WHERE TO FIND ME
 
 <p align="left">
 <a href="mailto:guilhermeandrademendes10@gmail.com">
