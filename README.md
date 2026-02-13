@@ -34,6 +34,14 @@ Estou no **inicio da minha jornada profissional na área da tecnologia**. Contem
 ![GitHub Streak](https://streak-stats.demolab.com?user=guilhermeandradeads&theme=dark)
 
 
+<!-- Pacman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermeandradeads/guilhermeandradeads/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermeandradeads/guilhermeandradeads/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/guilhermeandradeads/guilhermeandradeads/output/pacman-contribution-graph.svg">
+</picture>
+
+
 ## 🚀 Philosophies and inspirations
 
 "A melhor maneira de **prever** o futuro é **inventá-lo**." — Steve Jobs
