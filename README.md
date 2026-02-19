@@ -2,7 +2,7 @@
 
  **Sou graduando em Análise e Desenvolvimento de Sistemas pela** [Estácio](https://www.estacio.br)
  
- 🇧🇷 Brazil
+ Brazil
 
 Estou no **inicio da minha jornada profissional na área da tecnologia**. 
 
